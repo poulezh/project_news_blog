@@ -1,0 +1,17 @@
+.container{
+    width: 1170px;
+    height:100vh;
+    margin:0 auto;
+    border: 1px solid rebeccapurple;
+}
+.block{
+    display: block;
+    width: 150px;
+    height: 45px;
+    border: 1px solid red
+}
+.block2{
+    width: 399px;
+    height: 300px;
+    border: 1px solid green
+}
